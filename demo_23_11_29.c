@@ -3,6 +3,7 @@
 //
 
 //常量
+#ifdef FILE_23_11_29_MAIN
 
 #include <stdio.h>
 
@@ -52,3 +53,5 @@ int main() {
 
     return 0;
 }
+
+#endif

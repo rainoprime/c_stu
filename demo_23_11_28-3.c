@@ -6,6 +6,8 @@
 //局部变量的生命周期：进入局部范围生命周期开始，出局部范围生命周期结束
 //全局变量的生命周期：程序的生命周期
 
+#ifdef FILE_23_11_28-3_MAIN
+
 #include <stdio.h>
 
 extern int g_val;
@@ -20,3 +22,4 @@ int main() {
     printf("g_val = %d\n", g_val);
     return 0;
 }
+#endif

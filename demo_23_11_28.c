@@ -3,6 +3,9 @@
 //
 //从控制台获取数据数据，并相加打印结果
 
+
+#ifdef FILE_23_11_28_MAIN
+
 #include <stdio.h>
 
 int main()
@@ -18,3 +21,5 @@ int main()
     printf("sum = %d\n", sum);
     return 0;
 }
+
+#endif
