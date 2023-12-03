@@ -15,6 +15,8 @@ add_executable(c_stu demo_23_11_28.c
         demo_23_12_02-3.c
         demo_23_12_02-4.c
         demo_23_12_02-5.c
+        demo_23_12_03.c
+        demo_23_12_03-2.c
 )
 
-add_definitions(-DFILE_23_12_02_5_MAIN)  # 定义 FILE_23_11_29_MAIN，所以 FILE_23_11_29_MAIN.c 中的 main 将被编译
+add_definitions(-DFILE_23_12_03_MAIN)  # 定义 FILE_23_11_29_MAIN，所以 FILE_23_11_29_MAIN.c 中的 main 将被编译
