@@ -9,3 +9,4 @@
 - [demo_23_12_04-3.c](demo_23_12_04-3.c): while 2 循环结构 清空缓冲区
 - [demo_23_12_04-4.c](demo_23_12_04-4.c): for 1 循环结构
 - [demo_23_12_04-5.c](demo_23_12_04-5.c): do while 循环结构
+- [demo_23_12_05.c](demo_23_12_05.c): 库函数 strcpy memset的使用
