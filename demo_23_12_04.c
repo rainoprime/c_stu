@@ -1,7 +1,7 @@
 //
 // Created by raino on 12/4/2023.
 //
-// switch 语句
+// switch ???
 
 #ifdef FILE_23_12_04_MAIN
 
@@ -14,23 +14,23 @@ int main () {
     scanf("%d", &b);
     switch (a) {
         case 1:
-            printf("张三\n");
+            printf("????\n");
         case 2:
-            printf("李斯\n");
+            printf("???\n");
             break;
         case 3:
-            printf("王五\n");
+            printf("????\n");
         case 4:
             switch (b) {
                 case 1:
-                    printf("随流\n");
+                    printf("????\n");
                     break;;
                 default:
                     break;
             }
             break;
         default:
-            printf("未知\n");
+            printf("δ?\n");
             break;
     }
 
